@@ -4,7 +4,6 @@
       <meta charset="utf-8">
       <title> KEK</title>
     </head>
-    <div class="snow" />
 <style>
 .editor-stage .snow {
   height:50px;
@@ -47,8 +46,8 @@
   100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
 }
 </style>
-<p>
     <body style= "background-color : deeppink">
+      <div class="snow"></div>
         <p style = "color : yellow"> HELLO FRIENDS</p>
         <img src= "https://i.gifer.com/DAU.gif" width=1000 height="200"/>
     </body>
